@@ -1,0 +1,13 @@
+springboot 和 springmvc 有啥区别
+如何保证并发安全
+双亲委派模型
+什么是线程上下文切换
+内存溢出怎么解决
+ABA问题是什么
+什么是分代收集
+G1 了解吗
+redis 有什么缺点
+redis 持久化策略，缓存淘汰策略
+Kafka 怎么保证有序的
+kafka 多个partition 怎么保证消息有序
+kafka 消费者如何保证消费只消费一次
